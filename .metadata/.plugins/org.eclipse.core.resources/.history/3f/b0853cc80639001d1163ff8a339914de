@@ -1,0 +1,17 @@
+import java.util.ArrayList;
+
+public class Deposito {
+	private ArrayList<Object> list = new ArrayList<Object>();
+
+	public ArrayList<Object> getList() {
+		return list;
+	}
+
+	public void setList(ArrayList<Object> list) {
+		this.list = list;
+	}
+	
+	public void 
+	
+}
+
